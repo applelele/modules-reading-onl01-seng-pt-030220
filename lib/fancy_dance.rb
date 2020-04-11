@@ -6,7 +6,7 @@ module InstanceMethods
   end
 
   def jump
-    "Look how hign I'm jumping!"
+    "Look how high I'm jumping!"
   end
 
   def pirouette
