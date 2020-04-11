@@ -10,7 +10,7 @@ module InstanceMethods
   end
 
   def pirouette
-    "I'm doing a Pirouette"
+    "I'm doing a pirouette"
   end
 
   def take_a_bow
